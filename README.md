@@ -1,0 +1,1 @@
+A fairly self explainatory collection of scripts which emulates other programs, not all of them are written by me.
